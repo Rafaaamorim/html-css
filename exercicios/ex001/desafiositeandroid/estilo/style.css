@@ -41,6 +41,7 @@ header {
     color: white;
     min-height: 150px;
     text-align: center;
+    padding: 20px;
 
     text-shadow: 1px 2px 0px rgba(0, 0, 0, 0.466);
 }
@@ -59,7 +60,7 @@ header > h1 {
 
 nav {
     background-color: var(--corh1);
-    padding: 8px;
+    padding: 10px;
     box-shadow: 2px 2px 4px 1px rgba(0, 0, 0, 0.375);
     text-align: left;
 }
