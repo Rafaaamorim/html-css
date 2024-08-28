@@ -48,6 +48,7 @@ header {
 
 header > p {
     color: rgb(246, 244, 244);
+    padding-bottom: 20px;
 }
 
 header > h1 {
