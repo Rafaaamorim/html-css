@@ -27,7 +27,8 @@ header {
 }
 
 header > p {
-    font-family: Arial, Helvetica, sans-serif;
+    font-weight: normal;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
     padding-bottom: 50px;
 }
 
@@ -35,7 +36,7 @@ h1 {
     font-family: 'PassionOne';
     font-variant: small-caps;
     padding-top: 50px;
-    font-size: 3.5em;
+    font-size: 4em;
     font-weight: normal;
 }
 
@@ -62,7 +63,8 @@ section.imagem {
 }
 
 section.imagem > p {
-    width: 400px;
+    display: inline-block;
+    padding: 5px;
     background-color: rgba(0, 0, 0, 0.599);
 }
     
