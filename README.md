@@ -5,4 +5,4 @@ Estou aprendendo a criar sites e agora vou gerenciar os meus repositórios!
 
  <a href="https://rafaaamorim.github.io/html-css/exercicios/ex001/desafiositeandroid/desafiosite.html">Executar projeto android</a>
 
- <a href="https://rafaaamorim.github.io/projeto-cordel/">Projeto Cordel</a>
+<a href="https://rafaaamorim.github.io/html-css/exercicios/ex001/desafiocordel/desafiocordel.html">Projeto Cordel</a>
